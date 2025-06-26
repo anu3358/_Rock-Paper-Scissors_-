@@ -32,3 +32,20 @@ This project is a **Python-based terminal version** of Rock-Paper-Scissors — b
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors.git
+
+
+
+👨‍💻 Author
+Crafted with curiosity and code by ✨ ANURAG SAINI ✨
+
+
+
+
+📌 Want to test before cloning?
+🔗 Check out the live browser demo here: https://appbrewery.github.io/python-day4-demo/
+
+
+
+
+⭐ Support
+IF YOU APPRECIATE MY WORK PLEASE GIVE STAR ⭐
